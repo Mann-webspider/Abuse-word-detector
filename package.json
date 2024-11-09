@@ -1,0 +1,11 @@
+{
+  "name": "abuse-words-detector",
+  "version": "1.0.0",
+  "description": "Hi Fellas, my name is **Mann Dalsaniya** Studing at ***Gyanmanjari University*** and i am pursuing my ***2nd year BTech IT*** degree,",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
